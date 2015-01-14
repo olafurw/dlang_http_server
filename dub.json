@@ -1,0 +1,6 @@
+{
+	"name" : "server",
+	"description" : "Simple HTTP Server.",
+	"dependencies" : {
+	}
+}
